@@ -51,6 +51,7 @@ This project is an AI-powered resume analyzer built with Next.js, utilizing Goog
 ```
     npm run dev
 ```
+
     Open http://localhost:3000 with your browser to see the result.
     
 7. Try our deployed version.
