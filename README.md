@@ -22,20 +22,20 @@ This project is an AI-powered resume analyzer built with Next.js, utilizing Goog
 ## ⚙️ Setup
 
 1.  Clone the repository:
-```
-    git clone https://github.com/ngxuanhern/AICruit.git
-```
+    ```
+        git clone https://github.com/ngxuanhern/AICruit.git
+    ```
 
 2.  Navigate to the project directory:
-```
-    cd AICruit
-```
+    ```
+        cd AICruit
+    ```
 
 
 4.  Install dependencies:
-```
-    npm install
- ```
+    ```
+        npm install
+     ```
 
 
 5.  Set up Firebase:
@@ -46,13 +46,14 @@ This project is an AI-powered resume analyzer built with Next.js, utilizing Goog
 6.  Set up Google AI/Genkit:
     - Configure your Google Cloud project and credentials for Genkit.
     - Ensure necessary APIs are enabled.
+    - Add you Gemini API key in .env file.
 
 7.  Run the development server:
-```
-    npm run dev
-```
-
-    Open http://localhost:3000 with your browser to see the result.
+    ```
+        npm run dev
+    ```
+    - Open http://localhost:3000 with your browser to see the result.
+      
     
 7. Try our deployed version.
    https://ai-cruit-1.vercel.app
