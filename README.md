@@ -60,7 +60,7 @@ bash
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 7. Try our deployed version.
-   https://ai-cruit.vercel.app/
+   https://ai-cruit-1.vercel.app
    
 ## 🗂️ Project Structure
 
