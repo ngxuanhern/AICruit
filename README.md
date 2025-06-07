@@ -4,7 +4,7 @@ This project is an AI-powered resume analyzer built with Next.js, utilizing Goog
 
 ## ✨ Features
 
-- Upload resumes (DOCX, TXT, PDF])
+- Upload resumes (DOCX, TXT, PDF), cover letters(DOCX, PDF)
 - Extract key information from resumes
 - Rank candidates based on skills and job descriptions
 - Verify resume authenticity (detect potential AI generation or fraud)
